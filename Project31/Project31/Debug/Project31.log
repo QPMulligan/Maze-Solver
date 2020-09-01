@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\quinn\documents\visual studio 2015\projects\project31\project31\source.cpp(93): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\quinn\documents\visual studio 2015\projects\project31\project31\source.cpp(103): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\quinn\documents\visual studio 2015\projects\project31\project31\source.cpp(112): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\quinn\documents\visual studio 2015\projects\project31\project31\source.cpp(121): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Project31.vcxproj -> C:\Users\quinn\Documents\Visual Studio 2015\Projects\Project31\Debug\DFS and BFS.exe
+  Project31.vcxproj -> C:\Users\quinn\Documents\Visual Studio 2015\Projects\Project31\Debug\DFS and BFS.pdb (Partial PDB)
